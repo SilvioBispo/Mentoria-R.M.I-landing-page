@@ -1,0 +1,276 @@
+html {
+    scroll-behavior: smooth;
+    scrollbar-color: transparent ;
+    background-image: linear-gradient(to top, #000000, #21191f, #352d3d, #3e4560, #396182, #396182, #396182, #396182, #3e4560, #352d3d, #21191f, #000000);
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+header {
+    margin-top: 35px;
+    color: #12C7EB;
+    background-color: transparent;
+}
+#section-mentor {
+    margin-top: 38px;
+    height: 600px;
+}
+
+#section-mentor h1{
+    padding-top: 20px;
+    margin-left: 400px;
+    margin-right: auto;
+    font-size: 60px;
+    color: #FAF9F6;
+    font-family: Fantasy;
+    text-shadow: 5px 5px 10px #12C7EB;
+}
+
+
+#section-mentor h2{
+    padding-left: 100px;
+    padding-bottom: 60px;
+    color: #FAF9F6;
+    font-family:  Fantasy;
+    letter-spacing: 2px;
+}
+
+#section-mentor li {
+    padding-left: 20px;
+    padding-bottom: 5px;
+    color: #FAF9F6;
+    font-family: Fantasy;
+    letter-spacing: 2px;
+    list-style: url(assets/check-square.svg);
+}
+
+#section-mentor div {
+    margin-top: 100px;
+    margin-left: 80px;
+    margin-right: auto;
+    align-content: center;
+    height: 300px;
+    width: 500px;
+    background-color: transparent;
+    border-color: #12C7EB;
+    border-radius: 30px;
+    box-shadow: #12C7EB 0px 54px 55px, #12C7EB 0px -12px 30px, #12C7EB 0px 4px 6px, #12C7EB 0px 12px 13px, #12C7EB 0px -3px 5px;
+}
+
+#section-mente {
+    height: 800px;
+}
+
+#section-mente img {
+    width: 430px;
+    height: 330px;
+    margin-left: 900px;
+    margin-top: -265px;
+    
+}
+
+#section-mente h2 {
+    padding-top: 20px;
+    margin-left: 400px;
+    margin-right: auto;
+    margin-bottom: -10px;
+    font-size: 31px;
+    color: #12C7EB;
+    font-family: Fantasy;
+    text-shadow: 5px 5px 10px black;
+}
+
+#section-mente h1 {
+    margin-left: 400px;
+    margin-right: auto;
+    margin-bottom: 90px;
+    margin-top: -10px;
+    font-size: 60px;
+    color: #FAF9F6;
+    font-family: Fantasy;
+    text-shadow: 5px 5px 10px #12C7EB;
+}
+
+#section-mente p {
+    padding-left: 20px;
+    text-justify: auto;
+    font-size: 20px;
+    color: #FAF9F6;
+    font-family: Fantasy;
+    letter-spacing: 2px;
+    text-shadow: 5px 5px 10px black;
+}
+
+#section-metodo {
+    height: 600px;
+}
+
+#section-metodo h1{
+    padding-top: 35px;
+    padding-right: auto;
+    padding-bottom: 35px;
+    margin-left: 30%;
+    font-size: 50px;
+    color: #FAF9F6;
+    font-family: Fantasy;
+    text-shadow: 5px 5px 10px black;
+    padding-left: 10px; 
+    border-left: 3px solid #FAF9F6; 
+    height: 40px;
+}
+
+#section-metodo li{
+    padding-left:  480px;
+    padding-right: auto;
+    font-size: 40px;
+    color: #FAF9F6;
+    font-family: Fantasy;
+    text-shadow: 5px 5px 10px black;
+}
+
+#section-metodo h4{
+    padding-left:  400px;
+    padding-right: auto;
+    font-size: 15px;
+    color: #FAF9F6;
+    font-family: Fantasy;
+    letter-spacing: 2px;
+    text-shadow: 5px 5px 10px black;
+}
+
+#section-semanal {
+    height: 600px;
+}
+
+#section-semanal h1{
+
+     margin-left: 180px;
+     font-size: 50px;
+     padding-bottom: 50px;
+     color: #FAF9F6;
+     font-family: Fantasy;
+     text-shadow: 5px 5px 10px black;
+     border-right: 3px solid black; 
+     padding-right: 10px; 
+     padding-left: 10px; 
+     border-left: 3px solid #FAF9F6; 
+     height: 40px;
+}
+
+#section-semanal li {
+    padding-left: 20px;
+    font-size: 20px;
+    color: #FAF9F6;
+    font-family: Fantasy;
+    letter-spacing: 2px;
+    text-shadow: 5px 5px 10px black;
+    list-style: url(assets/check-square.svg);
+    
+}
+
+#section-semanal img {
+    width: 330px;
+    height: 330px;
+    margin-left: 900px;
+    margin-top: -185px;
+    
+}
+
+#section-etapas {
+    height: 1000px;
+}
+
+#section-etapas h1 {
+    margin-left: 35%;
+    padding-top: 20px;
+    font-size: 50px;
+    padding-bottom: 20px;
+    color: #FAF9F6;
+    font-family: Fantasy;
+    text-shadow: 5px 5px 10px black;
+    padding-left: 10px; 
+    border-left: 3px solid #FAF9F6; 
+    height: 40px;
+}
+
+#section-etapas li {
+    font-size: 50px;
+    color: #FAF9F6;
+    font-family: Fantasy;
+    letter-spacing: 2px;
+    text-shadow: 5px 5px 10px black;
+    list-style: url(assets/check-square.svg);
+}
+
+#section-etapas h3 {
+    color: #FAF9F6;
+    font-family: Fantasy;
+    letter-spacing: 2px;
+    text-shadow: 5px 5px 10px black;
+}
+
+#section-botao {
+    height: 600px;
+}
+
+#section-botao img {
+    width: 530px;
+    height: 300px;
+    margin-left: 400px;
+    margin-right: auto;
+    margin-top: 130px;
+    display: flex;
+}
+
+#section-botao button {
+    margin-left: 500px;
+    margin-right: auto;
+    margin-top: 60px;
+    color: #FAF9F6;
+        cursor: pointer;
+        font-weight: 700;
+        transition: all 0.2s;
+        padding: 10px 20px;
+        border-radius: 100px;
+        background: #6b5619;
+        border: 1px solid transparent;
+        display: flex;
+        align-items: center;
+        font-size: 15px;
+      }
+      
+      button:hover {
+        background: #6b5619;
+      }
+      
+      button > svg {
+        width: 34px;
+        margin-left: 10px;
+        transition: transform 0.3s ease-in-out;
+      }
+      
+      button:hover svg {
+        transform: translateX(5px);
+      }
+      
+      button:active {
+        transform: scale(0.95);
+      }
+
+
+
+#section-botao h1 {
+    padding-top: 20px;
+    margin-left: 170px;
+    margin-right: auto;
+    color: #12C7EB;
+    font-family: Fantasy;
+    letter-spacing: 2px;
+}
