@@ -157,8 +157,6 @@ header {
      color: #FAF9F6;
      font-family: Fantasy;
      text-shadow: 5px 5px 10px black;
-     border-right: 3px solid black; 
-     padding-right: 10px; 
      padding-left: 10px; 
      border-left: 3px solid #FAF9F6; 
      height: 40px;
@@ -274,3 +272,23 @@ header {
     font-family: Fantasy;
     letter-spacing: 2px;
 }
+
+::-webkit-scrollbar {
+    width: 20px;
+    background-color: transparent;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: transparent;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #12C7EB;
+    border-radius: 20px;
+    border: 6px solid transparent;
+    background-clip: content-box;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #12C7EB;
+  }
